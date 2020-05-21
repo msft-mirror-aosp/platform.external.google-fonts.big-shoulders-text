@@ -16,10 +16,12 @@
 prebuilt_font {
     name: "BigShouldersText-Bold.ttf",
     src: "BigShouldersText-Bold.ttf",
+    product_specific: true,
 }
         
 prebuilt_font {
     name: "BigShouldersText-ExtraBold.ttf",
     src: "BigShouldersText-ExtraBold.ttf",
+    product_specific: true,
 }
         
